@@ -14,7 +14,7 @@ function saveFile(bigbang) {
 
 //we declare the bigbang array
 var bigbang = [];
-// we declare the alias variable which would contain our dictionary and its corresponding keys
+// we declare the alias variable which would contain our dictionary
 var alias = { 3: "BIG", 5: "BANG" };
 
 for (let i = 1; i <= 100; i++) {
